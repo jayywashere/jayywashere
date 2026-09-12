@@ -16,7 +16,7 @@ public class Me
 
 **Languages I use:**
 
-`Rust` · `C#` · `C++` · `Python` · `TypeScript/JavaScript` · `C`
+`Rust` · `C#` · `C++` · `Java` · `Python` · `TypeScript/JavaScript` · `C`
 
 ## 🚀 Active Projects
 
