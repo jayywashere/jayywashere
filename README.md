@@ -26,8 +26,9 @@ fn main() {
 }
 ```
 
-* 💾 **TASM** — A VERY TINY ARM64-inspired assembly language and virtual machine written in Rust.
-* 🧪 **Various experiments** — Includes small programs, language experiments, and things I probably didn't need to build.
+- 💾 **TASM** — A VERY TINY ARM64-inspired assembly language written in Rust, targeting my ARC virtual machine.
+- ⚙️ **ARC** — A VERY TINY stack-based bytecode virtual machine written in Rust, designed as a reusable runtime for different frontends.
+- 🧪 **Various experiments** — Includes small programs, language experiments, and things I probably didn't need to build.
 
 ## 📚 Currently Learning
 
@@ -52,6 +53,9 @@ int main() {
 
 Emojis are NOT an AI watermark.
 Sometimes, people just enjoy using emojis.
+I guess I needed to say this because emojis are not concrete evidence for AI-generated works...
+PLEASE.
+Okay!
 
 ## 📶 Stats
 
