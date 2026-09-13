@@ -53,7 +53,7 @@ int main() {
 
 Emojis are NOT an AI watermark.
 Sometimes, people just enjoy using emojis.
-I guess I needed to say this because emojis are not concrete evidence for AI-generated works...
+I guess I needed to say this because emojis are not concrete evidence for AI-generated work...
 PLEASE.
 Okay!
 
