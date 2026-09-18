@@ -25,7 +25,7 @@ fn main() {
     println!("Building weird little things.");
 }
 ```
-
+- ✨ Spark — A VERY TINY higher-level programming language written in Rust, targeting my ARC virtual machine.
 - 💾 **TASM** — A VERY TINY ARM64-inspired assembly language written in Rust, targeting my ARC virtual machine.
 - ⚙️ **ARC** — A VERY TINY stack-based bytecode virtual machine written in Rust, designed as a reusable runtime for different frontends.
 - 🧪 **Various experiments** — Includes small programs, language experiments, and things I probably didn't need to build.
