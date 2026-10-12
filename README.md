@@ -1,10 +1,10 @@
-# Hello, I'm Jay! 👋
+# Hello, I'm Jay! (corny introduction)
 
 I'm a high-school developer interested in **low-level programming, programming languages, and systems** -- preferably with as little suffering as possible...
 
 I REALLY like building small things, experimenting with weird ideas, and occasionally creating problems for myself that then I have to solve..
 
-## 🛠️ Current Status
+## Current Status
 
 ```csharp
 public class Me
@@ -18,19 +18,21 @@ public class Me
 
 `Rust` · `C#` · `C++` · `Java` · `Python` · `TypeScript/JavaScript` · `C`
 
-## 🚀 Active Projects
+## Active Projects
 
 ```rust
 fn main() {
     println!("Building weird little things.");
 }
 ```
-- ✨ **Spark** — A VERY TINY higher-level programming language written in Rust, targeting my ARC virtual machine.
-- 💾 **TASM** — A VERY TINY ARM64-inspired assembly language written in Rust, targeting my ARC virtual machine.
-- ⚙️ **ARC** — A VERY TINY stack-based bytecode virtual machine written in Rust, designed as a reusable runtime for different frontends.
-- 🧪 **Various experiments** — Includes small programs, language experiments, and things I probably didn't need to build.
 
-## 📚 Currently Learning
+- **Spark** — A VERY TINY higher-level programming language written in Rust, targeting ARC and Prism.
+- **TASM** — A VERY TINY ARM64-inspired assembly language written in Rust, targeting ARC and Prism.
+- **ARC** — A VERY TINY stack-based bytecode virtual machine written in Rust, designed as a reusable runtime for different frontends.
+- **Prism** — A VERY TINY friendly abstraction layer for LLVM written in Rust, designed as a reusable tool for different frontends.
+- **Various experiments** — Includes small programs, language experiments, and things I probably didn't need to build.
+
+## Currently Learning
 
 ```cpp
 #include <print>
@@ -49,7 +51,7 @@ int main() {
 
 > **Maximize adaptability; minimize friction!**
 
-## 💡 Fun Fact
+## Fun Fact
 
 Emojis are NOT an AI watermark.
 Sometimes, people just enjoy using emojis.
@@ -57,7 +59,7 @@ I guess I needed to say this because emojis are not concrete evidence for AI-gen
 PLEASE.
 Okay!
 
-## 📶 Stats
+## Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=jayywashere&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
